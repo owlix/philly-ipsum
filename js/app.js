@@ -23,7 +23,7 @@ $(document).ready(function(){
             'South Street',
             'special',
             'Utley',
-            'phantic',
+            'phanatic',
             'Ben Franklin',
             'Yuengling',
             'MOVE',
