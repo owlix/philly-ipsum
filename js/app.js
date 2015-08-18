@@ -100,6 +100,13 @@ $(document).ready(function(){
             'soft pretzel',
             'soda',
             'Cheez Whiz',
+            'wooder',
+            'youse',
+            'Poconos',
+            'Rocky',
+            'friggin',
+            'strut',
+            'Iggles'
 
 
 
